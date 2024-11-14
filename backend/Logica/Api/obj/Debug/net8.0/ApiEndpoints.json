@@ -1,0 +1,445 @@
+[
+  {
+    "ContainingType": "Api.Controllers.AuditoriaController",
+    "Method": "ConfigurarAuditoriaAcciones",
+    "RelativePath": "api/auditoria/configurar/acciones",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "Logica.Request.ReqAuditoriaAcciones",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api.Controllers.AuditoriaController",
+    "Method": "ConfigurarAuditoriaConexiones",
+    "RelativePath": "api/auditoria/configurar/conexiones",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "Logica.Request.ReqAuditoria",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api.Controllers.AuditoriaController",
+    "Method": "ConfigurarAuditoriaTablas",
+    "RelativePath": "api/auditoria/configurar/tablas",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "System.Collections.Generic.List\u00601[[Logica.Request.ReqAuditoriaTablas, Logica, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api.Controllers.AuditoriaController",
+    "Method": "ConsultarAcciones",
+    "RelativePath": "api/auditoria/consultar/acciones",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "Logica.Request.ReqConsultaAcciones",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api.Controllers.AuditoriaController",
+    "Method": "ConsultarSesiones",
+    "RelativePath": "api/auditoria/consultar/sesiones",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "Logica.Request.ReqConsultaSesiones",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api.Controllers.AuditoriaController",
+    "Method": "ConsultarTablas",
+    "RelativePath": "api/auditoria/consultar/tablas",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "Logica.Request.ReqConsultaTablas",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api.Controllers.AuditoriaController",
+    "Method": "ObtenerEstadoAuditoria",
+    "RelativePath": "api/auditoria/estado",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api.Controllers.PerformanceController",
+    "Method": "CrearIndice",
+    "RelativePath": "api/Performance/create-index",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Logica.Request.ReqCreateIndex",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api.Controllers.PerformanceController",
+    "Method": "ObtenerQueryPlan",
+    "RelativePath": "api/Performance/query-plan",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Logica.Request.ReqQueryPlan",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api.Controllers.RespaldoController",
+    "Method": "generarRespaldoCompleto",
+    "RelativePath": "api/respaldo/generarRespaldoCompleto",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api.Controllers.RespaldoController",
+    "Method": "generarRespaldoSchema",
+    "RelativePath": "api/respaldo/generarRespaldoSchema",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "Logica.Request.ReqRespaldoSchema",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api.Controllers.RespaldoController",
+    "Method": "generarRespaldoTabla",
+    "RelativePath": "api/respaldo/generarRespaldoTabla",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "Logica.Request.ReqRespaldoTabla",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api.Controllers.RespaldoController",
+    "Method": "ImportarRespaldoCompleto",
+    "RelativePath": "api/respaldo/ImportarRespaldoCompleto",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api.Controllers.RespaldoController",
+    "Method": "ImportarRespaldoSchema",
+    "RelativePath": "api/respaldo/ImportarRespaldoSchema",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "Logica.Request.ReqRespaldoSchema",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api.Controllers.RespaldoController",
+    "Method": "ImportarRespaldoTabla",
+    "RelativePath": "api/respaldo/ImportarRespaldoTabla",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "Logica.Request.ReqRespaldoTabla",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api.Controllers.SeguridadController",
+    "Method": "CrearRol",
+    "RelativePath": "api/seguridad/crearRol",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "Logica.Request.ReqCrearRol",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api.Controllers.SeguridadController",
+    "Method": "CrearUsuario",
+    "RelativePath": "api/seguridad/crearUsuario",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "Logica.Request.ReqCrearUsuario",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api.Controllers.SeguridadController",
+    "Method": "EliminarUsuario",
+    "RelativePath": "api/seguridad/eliminarUsuario",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "Logica.Request.ReqEliminarUsuario",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api.Controllers.SeguridadController",
+    "Method": "ListarPrivilegios",
+    "RelativePath": "api/seguridad/listarPrivilegios/{nombreUsuario}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nombreUsuario",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api.Controllers.SeguridadController",
+    "Method": "ListarRoles",
+    "RelativePath": "api/seguridad/listarRoles",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api.Controllers.SeguridadController",
+    "Method": "ListarUsuarios",
+    "RelativePath": "api/seguridad/listarUsuarios",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api.Controllers.SeguridadController",
+    "Method": "ModificarUsuario",
+    "RelativePath": "api/seguridad/modificarUsuario",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "Logica.Request.ReqModificarUsuario",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api.Controllers.SeguridadController",
+    "Method": "ObtenerPrivilegios",
+    "RelativePath": "api/seguridad/obtenerPrivilegios",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api.Controllers.TablespaceController",
+    "Method": "CompactarTablespace",
+    "RelativePath": "api/tablespace/compactar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "Logica.Request.ReqCompactarTablespace",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api.Controllers.TablespaceController",
+    "Method": "CrearTablespace",
+    "RelativePath": "api/tablespace/crear",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "Logica.Request.ReqCrearTablespace",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api.Controllers.TablespaceController",
+    "Method": "EliminarTablespace",
+    "RelativePath": "api/tablespace/eliminar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "Logica.Request.ReqEliminarTablespace",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api.Controllers.TablespaceController",
+    "Method": "ModificarTablespace",
+    "RelativePath": "api/tablespace/modificar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "Logica.Request.ReqModificarTablespace",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api.Controllers.TablespaceController",
+    "Method": "ObtenerInformacionTablespaces",
+    "RelativePath": "api/tablespace/obtenerInformacion",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api.Controllers.TuningController",
+    "Method": "analizarConsulta",
+    "RelativePath": "api/tuning/analizarConsulta",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "req",
+        "Type": "Logica.Request.ReqAnalisisConsulta",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Api.Controllers.TuningController",
+    "Method": "obtenerEstadisticasTabla",
+    "RelativePath": "api/tuning/obtenerEstadisticasTabla/{schema}/{tabla}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "schema",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "tabla",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

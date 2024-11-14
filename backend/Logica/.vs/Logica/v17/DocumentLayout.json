@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Github\\Proyecto_Base_Datos\\backend\\Logica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A5065C-B667-41A1-B62D-9003361A6297}|Logica\\Logica.csproj|c:\\github\\proyecto_base_datos\\backend\\logica\\logica\\conexion\\conexiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A5065C-B667-41A1-B62D-9003361A6297}|Logica\\Logica.csproj|solutionrelative:logica\\conexion\\conexiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A5065C-B667-41A1-B62D-9003361A6297}|Logica\\Logica.csproj|c:\\github\\proyecto_base_datos\\backend\\logica\\logica\\response\\infotablespace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A5065C-B667-41A1-B62D-9003361A6297}|Logica\\Logica.csproj|solutionrelative:logica\\response\\infotablespace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A5065C-B667-41A1-B62D-9003361A6297}|Logica\\Logica.csproj|C:\\Github\\Proyecto_Base_Datos\\backend\\Logica\\logica\\tablespaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A5065C-B667-41A1-B62D-9003361A6297}|Logica\\Logica.csproj|solutionrelative:logica\\tablespaces.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F71E5C2-B566-4A77-9E59-B231A9AF3EFB}|Api\\Api.csproj|c:\\github\\proyecto_base_datos\\backend\\logica\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3F71E5C2-B566-4A77-9E59-B231A9AF3EFB}|Api\\Api.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A5065C-B667-41A1-B62D-9003361A6297}|Logica\\Logica.csproj|C:\\Github\\Proyecto_Base_Datos\\backend\\Logica\\logica\\seguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A5065C-B667-41A1-B62D-9003361A6297}|Logica\\Logica.csproj|solutionrelative:logica\\seguridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A5065C-B667-41A1-B62D-9003361A6297}|Logica\\Logica.csproj|C:\\Github\\Proyecto_Base_Datos\\backend\\Logica\\logica\\tuning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A5065C-B667-41A1-B62D-9003361A6297}|Logica\\Logica.csproj|solutionrelative:logica\\tuning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F71E5C2-B566-4A77-9E59-B231A9AF3EFB}|Api\\Api.csproj|c:\\github\\proyecto_base_datos\\backend\\logica\\api\\controllers\\tuningcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F71E5C2-B566-4A77-9E59-B231A9AF3EFB}|Api\\Api.csproj|solutionrelative:api\\controllers\\tuningcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A5065C-B667-41A1-B62D-9003361A6297}|Logica\\Logica.csproj|C:\\Github\\Proyecto_Base_Datos\\backend\\Logica\\logica\\response\\resanalisisconsulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A5065C-B667-41A1-B62D-9003361A6297}|Logica\\Logica.csproj|solutionrelative:logica\\response\\resanalisisconsulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A5065C-B667-41A1-B62D-9003361A6297}|Logica\\Logica.csproj|C:\\Github\\Proyecto_Base_Datos\\backend\\Logica\\logica\\request\\reqanalisisconsulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A5065C-B667-41A1-B62D-9003361A6297}|Logica\\Logica.csproj|solutionrelative:logica\\request\\reqanalisisconsulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A5065C-B667-41A1-B62D-9003361A6297}|Logica\\Logica.csproj|C:\\Github\\Proyecto_Base_Datos\\backend\\Logica\\logica\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E0A5065C-B667-41A1-B62D-9003361A6297}|Logica\\Logica.csproj|solutionrelative:logica\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A5065C-B667-41A1-B62D-9003361A6297}|Logica\\Logica.csproj|C:\\Github\\Proyecto_Base_Datos\\backend\\Logica\\logica\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E0A5065C-B667-41A1-B62D-9003361A6297}|Logica\\Logica.csproj|solutionrelative:logica\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F71E5C2-B566-4A77-9E59-B231A9AF3EFB}|Api\\Api.csproj|c:\\github\\proyecto_base_datos\\backend\\logica\\api\\controllers\\seguridadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F71E5C2-B566-4A77-9E59-B231A9AF3EFB}|Api\\Api.csproj|solutionrelative:api\\controllers\\seguridadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConexionDB.cs",
+              "DocumentMoniker": "C:\\Github\\Proyecto_Base_Datos\\backend\\Logica\\Logica\\Conexion\\ConexionDB.cs",
+              "RelativeDocumentMoniker": "Logica\\Conexion\\ConexionDB.cs",
+              "ToolTip": "C:\\Github\\Proyecto_Base_Datos\\backend\\Logica\\Logica\\Conexion\\ConexionDB.cs",
+              "RelativeToolTip": "Logica\\Conexion\\ConexionDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:32:07.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InfoTablespace.cs",
+              "DocumentMoniker": "C:\\Github\\Proyecto_Base_Datos\\backend\\Logica\\Logica\\Response\\InfoTablespace.cs",
+              "RelativeDocumentMoniker": "Logica\\Response\\InfoTablespace.cs",
+              "ToolTip": "C:\\Github\\Proyecto_Base_Datos\\backend\\Logica\\Logica\\Response\\InfoTablespace.cs",
+              "RelativeToolTip": "Logica\\Response\\InfoTablespace.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T23:10:28.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tablespaces.cs",
+              "DocumentMoniker": "C:\\Github\\Proyecto_Base_Datos\\backend\\Logica\\Logica\\Tablespaces.cs",
+              "RelativeDocumentMoniker": "Logica\\Tablespaces.cs",
+              "ToolTip": "C:\\Github\\Proyecto_Base_Datos\\backend\\Logica\\Logica\\Tablespaces.cs",
+              "RelativeToolTip": "Logica\\Tablespaces.cs",
+              "ViewState": "AgIAAOcAAAAAAAAAAAAowMUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T19:22:43.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Tuning.cs",
+              "DocumentMoniker": "C:\\Github\\Proyecto_Base_Datos\\backend\\Logica\\Logica\\Tuning.cs",
+              "RelativeDocumentMoniker": "Logica\\Tuning.cs",
+              "ToolTip": "C:\\Github\\Proyecto_Base_Datos\\backend\\Logica\\Logica\\Tuning.cs",
+              "RelativeToolTip": "Logica\\Tuning.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAYwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T17:15:19.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Github\\Proyecto_Base_Datos\\backend\\Logica\\Logica\\App.config",
+              "RelativeDocumentMoniker": "Logica\\App.config",
+              "ToolTip": "C:\\Github\\Proyecto_Base_Datos\\backend\\Logica\\Logica\\App.config",
+              "RelativeToolTip": "Logica\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-31T06:12:17.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Github\\Proyecto_Base_Datos\\backend\\Logica\\Logica\\packages.config",
+              "RelativeDocumentMoniker": "Logica\\packages.config",
+              "ToolTip": "C:\\Github\\Proyecto_Base_Datos\\backend\\Logica\\Logica\\packages.config",
+              "RelativeToolTip": "Logica\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-31T06:12:13.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SeguridadController.cs",
+              "DocumentMoniker": "C:\\Github\\Proyecto_Base_Datos\\backend\\Logica\\Api\\Controllers\\SeguridadController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\SeguridadController.cs",
+              "ToolTip": "C:\\Github\\Proyecto_Base_Datos\\backend\\Logica\\Api\\Controllers\\SeguridadController.cs",
+              "RelativeToolTip": "Api\\Controllers\\SeguridadController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:30:42.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Seguridad.cs",
+              "DocumentMoniker": "C:\\Github\\Proyecto_Base_Datos\\backend\\Logica\\Logica\\Seguridad.cs",
+              "RelativeDocumentMoniker": "Logica\\Seguridad.cs",
+              "ToolTip": "C:\\Github\\Proyecto_Base_Datos\\backend\\Logica\\Logica\\Seguridad.cs",
+              "RelativeToolTip": "Logica\\Seguridad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:05:31.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TuningController.cs",
+              "DocumentMoniker": "C:\\Github\\Proyecto_Base_Datos\\backend\\Logica\\Api\\Controllers\\TuningController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\TuningController.cs",
+              "ToolTip": "C:\\Github\\Proyecto_Base_Datos\\backend\\Logica\\Api\\Controllers\\TuningController.cs",
+              "RelativeToolTip": "Api\\Controllers\\TuningController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T17:20:22.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Github\\Proyecto_Base_Datos\\backend\\Logica\\Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Api\\appsettings.json",
+              "ToolTip": "C:\\Github\\Proyecto_Base_Datos\\backend\\Logica\\Api\\appsettings.json",
+              "RelativeToolTip": "Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-30T16:05:15.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReqAnalisisConsulta.cs",
+              "DocumentMoniker": "C:\\Github\\Proyecto_Base_Datos\\backend\\Logica\\Logica\\Request\\ReqAnalisisConsulta.cs",
+              "RelativeDocumentMoniker": "Logica\\Request\\ReqAnalisisConsulta.cs",
+              "ToolTip": "C:\\Github\\Proyecto_Base_Datos\\backend\\Logica\\Logica\\Request\\ReqAnalisisConsulta.cs",
+              "RelativeToolTip": "Logica\\Request\\ReqAnalisisConsulta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T17:18:34.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ResAnalisisConsulta.cs",
+              "DocumentMoniker": "C:\\Github\\Proyecto_Base_Datos\\backend\\Logica\\Logica\\Response\\ResAnalisisConsulta.cs",
+              "RelativeDocumentMoniker": "Logica\\Response\\ResAnalisisConsulta.cs",
+              "ToolTip": "C:\\Github\\Proyecto_Base_Datos\\backend\\Logica\\Logica\\Response\\ResAnalisisConsulta.cs",
+              "RelativeToolTip": "Logica\\Response\\ResAnalisisConsulta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T17:18:51.666Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
